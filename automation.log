@@ -1,0 +1,246 @@
+03/23/2021 11:16:18 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 11:16:21 AM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 11:16:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 11:16:23 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 11:16:24 AM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 11:16:59 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 11:16:59 AM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Title Verification
+03/23/2021 11:17:00 AM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Title Verification - 1616494619718.png
+03/23/2021 11:17:00 AM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 11:17:00 AM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 11:17:00 AM - SeleniumDriver - ERROR: test_validLogin ### TEST FAILED
+03/23/2021 11:18:30 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 11:18:34 AM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 11:18:35 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 11:18:37 AM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 11:18:37 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 11:18:37 AM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 11:18:37 AM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 11:18:37 AM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 11:18:38 AM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 11:18:38 AM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 11:19:12 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 11:19:12 AM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Title Verification
+03/23/2021 11:19:13 AM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Title Verification - 1616494752480.png
+03/23/2021 11:19:13 AM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 11:19:13 AM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 11:19:13 AM - SeleniumDriver - ERROR: test_validLogin ### TEST FAILED
+03/23/2021 01:18:48 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:18:51 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:18:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:18:55 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:18:56 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:19:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:19:31 PM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Title Verification
+03/23/2021 01:19:31 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Title Verification - 1616501971291.png
+03/23/2021 01:19:31 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:19:31 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:19:31 PM - SeleniumDriver - ERROR: test_validLogin ### TEST FAILED
+03/23/2021 01:21:55 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:21:58 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:21:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:22:00 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:22:02 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:22:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:22:37 PM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Title Verification
+03/23/2021 01:22:38 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Title Verification - 1616502157200.png
+03/23/2021 01:22:38 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:22:38 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:22:38 PM - SeleniumDriver - ERROR: test_validLogin ### TEST FAILED
+03/23/2021 01:23:08 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:23:11 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:23:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:23:13 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:23:15 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:23:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:23:49 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:23:49 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:23:49 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:23:49 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:38:56 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:38:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:38:59 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:39:00 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:39:00 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:39:00 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:39:00 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:39:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:39:34 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:39:34 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:39:34 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:39:34 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:39:35 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:40:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:40:09 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:40:12 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: email locatorType: id
+03/23/2021 01:40:16 PM - SeleniumDriver - INFO: Element not found with locator: password and locatorType: id
+03/23/2021 01:40:16 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: Element not found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:40:19 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:41:14 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:41:17 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:41:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:41:19 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:41:20 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:41:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:41:55 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:41:55 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:41:55 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:41:55 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:41:57 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:42:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:42:29 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:42:32 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: email locatorType: id
+03/23/2021 01:42:35 PM - SeleniumDriver - INFO: Element not found with locator: password and locatorType: id
+03/23/2021 01:42:35 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: Element not found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:42:38 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:43:35 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:43:39 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:43:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:43:41 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:43:42 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:43:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:43:44 PM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Title Verification
+03/23/2021 01:43:44 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Title Verification - 1616503424200.png
+03/23/2021 01:43:47 PM - SeleniumDriver - INFO: Element not found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:43:47 PM - SeleniumDriver - ERROR: ### VERIFICATION IS FAILED - Login verification
+03/23/2021 01:43:47 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Python\Selenium_udemy\selenium_framework\base\../screenshots/Login verification - 1616503427595.png
+03/23/2021 01:43:47 PM - SeleniumDriver - ERROR: test_validLogin ### TEST FAILED
+03/23/2021 01:43:48 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:43:50 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:44:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:44:24 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:44:24 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:44:24 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:44:24 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:45:34 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:45:38 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:45:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:45:40 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:45:41 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:46:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:46:15 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:46:15 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:46:15 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:46:15 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:46:16 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:46:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:46:50 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:46:53 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: email locatorType: id
+03/23/2021 01:46:56 PM - SeleniumDriver - INFO: Element not found with locator: password and locatorType: id
+03/23/2021 01:46:56 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: Element not found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:47:00 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
+03/23/2021 01:48:58 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:49:02 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:49:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:49:04 PM - SeleniumDriver - INFO: Element found with locator: //div[contains(text(),'Sign Up or Log In')] and locatorType: xpath
+03/23/2021 01:49:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sign Up or Log In')] locatorType: xpath
+03/23/2021 01:49:05 PM - SeleniumDriver - INFO: Element found with locator: email and locatorType: id
+03/23/2021 01:49:06 PM - SeleniumDriver - INFO: Send data on element with locator: email locatorType: id
+03/23/2021 01:49:06 PM - SeleniumDriver - INFO: Element found with locator: password and locatorType: id
+03/23/2021 01:49:06 PM - SeleniumDriver - INFO: Send data on element with locator: password locatorType: id
+03/23/2021 01:49:06 PM - SeleniumDriver - INFO: Element found with locator: //input[@value='Login'] and locatorType: xpath
+03/23/2021 01:49:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+03/23/2021 01:49:40 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Title Verification
+03/23/2021 01:49:40 PM - SeleniumDriver - INFO: Element found with locator: MY COURSES and locatorType: linktext
+03/23/2021 01:49:40 PM - SeleniumDriver - INFO: ### VERIFICATION SUCCESFUL - Login verification
+03/23/2021 01:49:40 PM - SeleniumDriver - INFO: test_validLogin ### TEST SUCCESSFUL
